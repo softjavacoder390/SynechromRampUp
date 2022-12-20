@@ -7,10 +7,7 @@ public class Demo1 {
 
     public static int lengthOfLongestSubstring(String s) {
     	//data1
-    	//data2
-    	//data3
-    	//data4
-	//data5
+    	
     	
         // Base condition
         if (s == null || s.equals("")) {
