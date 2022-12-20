@@ -9,6 +9,7 @@ public class Demo1 {
     	//data1
     	
     	
+    	
         // Base condition
         if (s == null || s.equals("")) {
             return 0;
