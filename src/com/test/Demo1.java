@@ -6,10 +6,7 @@ import java.util.Set;
 public class Demo1 {
 
     public static int lengthOfLongestSubstring(String s) {
-    	//data2
-    	//data3
-    	//data4
-	//data5
+    	
     	
         // Base condition
         if (s == null || s.equals("")) {
